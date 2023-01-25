@@ -1,0 +1,15 @@
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.exe
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.deps.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.runtimeconfig.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\bin\Debug\net7.0\ChooseYourOwnAdventure.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\refint\ChooseYourOwnAdventure.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ChooseYourOwnAdventure\obj\Debug\net7.0\ref\ChooseYourOwnAdventure.dll
